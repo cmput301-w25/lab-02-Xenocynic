@@ -8,7 +8,7 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+`The very detailed document provided for Assignment 0!`
 
 ## Verbal Collaboration
 
